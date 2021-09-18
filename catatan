@@ -1,0 +1,19 @@
+1. Langkah Config git ke repo
+ git remote add origin https://gitlab.com/mulyonoaja/app-api-vuejs.git
+ git push origin master https://gitlab.com/mulyonoaja/app-api-vuejs.git
+ git status
+ git add .
+ git status
+ git commit -m "Push aplikasi"
+ git push origin master  -> jika gagal pakai command di bawah
+ git push -f origin master
+ 2. Untuk install packege jalan perintah di bawah krn vendor gak kebawa
+ composer install
+3. Referensi belajar buat applikasi
+https://www.youtube.com/watch?v=JKfbiukwzH8&t=537s
+https://www.youtube.com/watch?v=anUIR0mHJx8&list=PUsgYQgzPN_0siiTxpTXwoBg
+https://www.youtube.com/watch?v=ZON7Wa9WTYo
+https://www.youtube.com/watch?v=BzMNc8BrULI
+https://www.youtube.com/watch?v=Rap9lLslPzA
+https://www.youtube.com/watch?v=XCljmze0_nY
+
