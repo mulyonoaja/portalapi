@@ -16,7 +16,11 @@ class CreateUsersSeeder extends Seeder
         $user = [
             [
                 'name'=>'Admin',
-                'email'=>'admin@indosatooredoo.com'
+                'email'=>'miha.mulyono@gmail.com',
+                'email_verified_at' => now(),
+                'password'=> Hash::make('1234')
+                
+                
             ],
         ];
 
